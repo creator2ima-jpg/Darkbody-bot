@@ -1,8 +1,8 @@
 const settings = {
-  packname: 'بودي اليوتيوبر',
+  packname: 'Dark fire',
   author: '‎',
-  botName: ".⤹𝗕𝗢𝗗𝗬 𝗘𝗟 𝗬𝗢𝗨𝗧𝗨𝗕𝗘𝗥⤾.",
-  botOwner: 'مطور بودي اليوتيوبر', // Your name
+  botName: ".⤹Dark fire⤾.",
+  botOwner: 'Dark fire', // Your name
   ownerNumber: '201091885491', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
